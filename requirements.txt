@@ -1,0 +1,8 @@
+art==6.3
+colorama==0.4.4
+folium==0.17.0
+opencage==3.0.2
+phonenumbers==8.13.46
+python_whois==0.9.4
+Requests==2.32.3
+selenium==4.25.0
